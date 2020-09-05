@@ -1,2 +1,2 @@
-# c35
-Car Racing Initialization
+# synchronousBallMovement
+Ball moving synchronously
